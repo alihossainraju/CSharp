@@ -1,0 +1,1 @@
+E:\CSharp\Project\Chk_Bank_Account\Chk_Bank_Account.csproj;x86
